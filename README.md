@@ -1,43 +1,29 @@
-## Hi there, I'm Asix Shiro 👋
+## Hi there 👋
 
-### 👨‍💻 Tentang Saya / About Me
+## About Me
 
-Saya adalah seorang developer yang passionate dalam mengembangkan aplikasi dan mempelajari teknologi baru. Saya senang mengeksplorasi berbagai bahasa pemrograman dan framework untuk menciptakan solusi yang efisien dan inovatif.
+I'm a passionate **Mobile Developer** specializing in hybrid and native mobile application development. My expertise lies in creating cross-platform solutions that deliver exceptional user experiences across different devices and platforms.
 
-I'm a passionate developer who loves building applications and learning new technologies. I enjoy exploring various programming languages and frameworks to create efficient and innovative solutions.
+### 🚀 Technical Expertise
 
-### 🔭 Saat Ini / Currently
+**Hybrid Mobile Development:**
+- 📱 **Flutter** - Building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase
+- 🔄 **Cross-platform Frameworks** - Experienced with various hybrid technologies and frameworks for efficient multi-platform development
 
-- 🌱 Sedang belajar dan mengembangkan skill dalam web development dan software engineering
-- 💻 Fokus pada pengembangan project yang meaningful dan bermanfaat
-- 📚 Terus belajar teknologi terbaru dan best practices dalam programming
+**Native Mobile Development:**
+- ☕ **Java** - Developing robust Android applications with strong foundations
+- 🎯 **Kotlin** - Modern Android development with concise and expressive code
 
-### 💼 Keahlian / Skills
+### 💡 What I Do
 
-- Programming Languages: JavaScript, Python, Java, dan lainnya
-- Web Development: HTML, CSS, JavaScript, Node.js
-- Database: MySQL, MongoDB
-- Tools & Technologies: Git, GitHub, VS Code
+I focus on building scalable, performant, and user-friendly mobile applications that bridge the gap between different platforms. Whether it's leveraging the power of Flutter for rapid cross-platform development or diving deep into native Android development with Java and Kotlin, I'm committed to delivering high-quality mobile solutions.
 
-### 🌟 Minat / Interests
+### 🌱 Currently
 
-- Web Development
-- Software Engineering
-- Open Source
-- Technology Innovation
-- Problem Solving
-
-### 📫 Hubungi Saya / Contact Me
-
-- GitHub: [@asix-shiro20998](https://github.com/asix-shiro20998)
-- Open to collaborations and interesting projects!
-
-### ⚡ Fun Facts
-
-- Suka belajar hal-hal baru setiap hari
-- Love to explore new technologies and coding challenges
-- Always eager to contribute to the developer community
+- Exploring the latest trends in mobile development
+- Enhancing my skills in hybrid frameworks and native technologies
+- Building innovative mobile solutions that make a difference
 
 ---
 
-💡 *"Code is like humor. When you have to explain it, it's bad." — Cory House*
+💬 Feel free to reach out if you want to discuss mobile development, collaborate on projects, or just connect!
